@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I am not good at ...
+category: blog
 ---
 
 ... socializing

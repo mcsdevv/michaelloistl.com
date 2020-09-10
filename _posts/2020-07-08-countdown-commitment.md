@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Countdown & Commitment
+category: blog
 ---
 
 During my daily session of blog post reading, two posts stood out for me as very relevant to my current situation. The first [The magic of the countdown](https://seths.blog/2020/07/the-magic-of-the-countdown){:target="_blank"} by Seth Godin and the second [Focus, intensity, hard work, and inevitability](https://alearningaday.blog/2020/07/08/focus-intensity-hard-work-and-inevitability){:target="_blank"} by Rohan Rajiv.

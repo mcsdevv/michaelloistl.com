@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The fear of the unknown
+category: blog
 ---
 
 It's about one month since my last post (March 1st) and lots has changed in the world.

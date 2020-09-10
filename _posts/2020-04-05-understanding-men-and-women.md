@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Understanding Men & Women
+category: blog
 ---
 
 ![](/assets/posts/2020-04-05-understanding-men-and-women/lauza_and_michael.png)

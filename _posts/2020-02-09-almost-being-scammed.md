@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Almost being scammed
+category: blog
 ---
 
 We are in the middle of preparing our departure to our new nomad lifestyle, which means packing and saying good bye to everything that we can't take with us. We give as much as possible to friends and family and sell everything else via Gumtree and Shpock. One of the items that we want to sell is an **Artemide Tizio 50** desk lamp.

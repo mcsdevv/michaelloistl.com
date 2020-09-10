@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Healthy Lifestyle
+category: blog
 ---
 
 Yesterday evening we celebrated my first Book launch for [Blind Spot Vol.2](https://www.amazon.co.uk/dp/0992792533/ref=cm_sw_r_tw_dp_U_x_qV7VBbKYVPYBY){:target="_blank"} which gave me the opportunity to write a chapter about my life, growing up as an architect before discovering my real passion for software development and the creation of digital products.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World (literally)
+category: blog
 ---
 
 > "Hello World" is often the first program written by people learning to code, and is often used to illustrate the basic syntax of a programming language.

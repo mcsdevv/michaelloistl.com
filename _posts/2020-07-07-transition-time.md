@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transition time
+category: blog
 ---
 
 As I get closer to the completion of my transition from my previous CTO role at a NYC startup to working full-time on my own projects, I am experiencing the "letting go", to be much harder than I thought it would be.

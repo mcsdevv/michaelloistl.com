@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first productive week
+category: blog
 ---
 
 Now, where I've the full working week to myself, I don't have to squeeze working on my own projects into the early morning or late evening hours anymore. I can actually organise my days in a healthier and more productive fashion, taking more time for myself, read and write more, write code when I'm the most focused and work on marketing and other content related topics in between. I don't have to stick to a fix 10am-6pm schedule and depending on how my days go, I can work more or less hours, earlier or later.

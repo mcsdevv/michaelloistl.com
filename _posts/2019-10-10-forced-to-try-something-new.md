@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forced to try something new
+category: blog
 ---
 
 I use vim (specifically MacVim) for my every day coding and most of my writing.
