@@ -35,8 +35,8 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-postcss
-  - jekyll-purgecss
+  # - jekyll-postcss
+  # - jekyll-purgecss
   - jekyll-sitemap
   - jekyll-seo-tag
 
