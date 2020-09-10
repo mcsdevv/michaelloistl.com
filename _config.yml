@@ -21,9 +21,9 @@
 title: Your awesome title
 title: Michael Loistl
 email: michael.loistl@hey.com
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://michaelloistl.com" # 192.30.252.153the base hostname & protocol for your site, e.g. http://example.com
+description: Programmer, Maker and Digital Nomad 
+baseurl: ""
+url: https://michaelloistl.com
 twitter_username: michaelloistl
 github_username:  michaelloistl
 rss: RSS
@@ -32,11 +32,9 @@ show_excerpts: true
 # Build settings
 permalink: /:categories/:year:month:day-:title/
 markdown: kramdown
-# theme: minima
+
 plugins:
   - jekyll-feed
-  # - jekyll-postcss
-  # - jekyll-purgecss
   - jekyll-sitemap
   - jekyll-seo-tag
 

@@ -19,9 +19,6 @@ gem "jekyll", "~> 4.1.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
-  # gem 'github-pages'
-  # gem 'jekyll-postcss'
-  # gem 'jekyll-purgecss'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
 end
