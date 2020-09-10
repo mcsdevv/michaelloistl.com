@@ -1,0 +1,40 @@
+{% if site.posts.size > 1 %}
+<section class="bg-gray-100">
+  <div class="max-w-3xl px-4 py-8 mx-auto sm:px-6 lg:px-8">
+    {% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%Y" %}
+    {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 class="w-24 pr-4 text-base font-bold text-right text-gray-900">{{ currentdate }}</h2>
+    <ul class="mt-2 mb-4 text-lg">
+      {% assign date = currentdate %}
+      {% endif %}
+      <li class="mb-1">
+        <div class="flex items-start content-end">
+          <div class="flex-none w-24 pr-4 text-right">
+            <span class="text-sm">{{ post.date | date: "%b %-d" }}</span>
+          </div>
+          <div class="block pl-4 border-l border-gray-300">
+            {% if post.url == page.url %}
+            <span class="font-bold">
+              {{ post.title }}
+            </span>
+            {% elsif page.id == '' && posts.first.url == post.url %}
+            <span class="font-bold">
+              {{ post.title }}
+            </span>
+            {% else %}
+            <a class="border-transparent" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+            {% endif %}
+          </div>
+        </div>
+      </li>
+      {% if forloop.last %}
+    </ul>{% endif %}
+    {% endfor %}
+  </div>
+
+</section>
+{% endif %}
