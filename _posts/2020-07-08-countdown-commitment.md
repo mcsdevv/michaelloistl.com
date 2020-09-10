@@ -3,9 +3,9 @@ layout: post
 title: Countdown & Commitment
 ---
 
-During my daily session of blog post reading, two posts stood out for me as very relevant to my current situation. The first [The magic of the countdown](https://seths.blog/2020/07/the-magic-of-the-countdown) by Seth Godin and the second [Focus, intensity, hard work, and inevitability](https://alearningaday.blog/2020/07/08/focus-intensity-hard-work-and-inevitability) by Rohan Rajiv.
+During my daily session of blog post reading, two posts stood out for me as very relevant to my current situation. The first [The magic of the countdown](https://seths.blog/2020/07/the-magic-of-the-countdown){:target="_blank"} by Seth Godin and the second [Focus, intensity, hard work, and inevitability](https://alearningaday.blog/2020/07/08/focus-intensity-hard-work-and-inevitability){:target="_blank"} by Rohan Rajiv.
 
-These last few days feel like a countdown towards a new beginning in my professional journey, despite the fact that I have been working on [Revit Content](https://revit-content.com) on and off for the last 10 years and on [Revit Family App](https://revitfamily.app) for more than 1 year. It feels that way as these two projects are going to turn from side projects into my full time work and sole source of income (besides the one or other freelance project).
+These last few days feel like a countdown towards a new beginning in my professional journey, despite the fact that I have been working on [Revit Content](https://revit-content.com) on and off for the last 10 years and on [Revit Family App](https://revitfamily.app){:target="_blank"} for more than 1 year. It feels that way as these two projects are going to turn from side projects into my full time work and sole source of income (besides the one or other freelance project).
 
 Seth writes about countdown:
 > But what really matters is this: There’s a commitment.

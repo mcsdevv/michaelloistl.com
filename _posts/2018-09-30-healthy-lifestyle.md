@@ -3,9 +3,9 @@ layout: post
 title: Healthy Lifestyle
 ---
 
-Yesterday evening we celebrated my first Book launch for [Blind Spot Vol.2](https://www.amazon.co.uk/dp/0992792533/ref=cm_sw_r_tw_dp_U_x_qV7VBbKYVPYBY) which gave me the opportunity to write a chapter about my life, growing up as an architect before discovering my real passion for software development and the creation of digital products.
+Yesterday evening we celebrated my first Book launch for [Blind Spot Vol.2](https://www.amazon.co.uk/dp/0992792533/ref=cm_sw_r_tw_dp_U_x_qV7VBbKYVPYBY){:target="_blank"} which gave me the opportunity to write a chapter about my life, growing up as an architect before discovering my real passion for software development and the creation of digital products.
 
-Before the event, I met our good friend [Tracy J. Reid](https://twitter.com/thefemininecode), who is best selling Author, and a very inspiring Lifestyle & Business coach. She asked me *"what I got out of writing my chapter in the book?"* and *"what's next for me after the book?"*.
+Before the event, I met our good friend [Tracy J. Reid](https://twitter.com/thefemininecode){:target="_blank"}, who is best selling Author, and a very inspiring Lifestyle & Business coach. She asked me *"what I got out of writing my chapter in the book?"* and *"what's next for me after the book?"*.
 
 I hesitated for some time and answered *"I love writing, but so far I wrote mostly for myself, without publishing. I would actually love to write more..."*, which turned into a promise to her, that I would write my first post the next day and here we are...
 

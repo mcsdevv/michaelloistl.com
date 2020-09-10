@@ -7,15 +7,15 @@ Back in November 2019, I saw a tweet where [Sailing La Vagabonde](https://sailin
 
 ![](/assets/images/2020-02-02-our-next-chapter/sailing-la-vagabonde.jpg)
 
-I clicked the link to learn more about this story and found [Riley and Elayna](https://sailing-lavagabonde.com), an Australian couple documenting their journey traveling the world by sail. Their story inspired us a lot and led to the discovery of other couples and  families like [Gone with the Wynns](https://www.gonewiththewynns.com), [Sailing Zatara](https://www.youtube.com/channel/UCNYlvlreZiRRHo_v5Nmrfow) and lately [Sailing SV Delos](https://www.youtube.com/channel/UCvLc83k5o11EIF1lEo0VmuQ), who travel the world as way of living.
+I clicked the link to learn more about this story and found [Riley and Elayna](https://sailing-lavagabonde.com){:target="_blank"}, an Australian couple documenting their journey traveling the world by sail. Their story inspired us a lot and led to the discovery of other couples and  families like [Gone with the Wynns](https://www.gonewiththewynns.com){:target="_blank"}, [Sailing Zatara](https://www.youtube.com/channel/UCNYlvlreZiRRHo_v5Nmrfow){:target="_blank"} and lately [Sailing SV Delos](https://www.youtube.com/channel/UCvLc83k5o11EIF1lEo0VmuQ){:target="_blank"}, who travel the world as way of living.
 
 We have been super into travel blogs and documentaries but haven't had any interest around boats or sailing in particular. We had once spent a weekend on a motor yacht, but didn't find it particularly appealing to glide over the water with roaring engine noise. Sailing might be a complete different experience and is definitely something that we would like to experience for ourselves to see if that's something on the future horizon to pursue more seriously.
 
 While these are all greatly inspiring stories, **what got really sparked** during the discovery of those world traveling couples and families **was our desire to travel and explore the world**, no matter what way of transportation.
 
-For example, [Gone with the Wynns](https://www.gonewiththewynns.com) started out with an epic road trip around North America with an awe inspiring trek around Alaska which took them six years before they switched their home from a RV to a catamaran, continuing there world exploration on sea.
+For example, [Gone with the Wynns](https://www.gonewiththewynns.com){:target="_blank"} started out with an epic road trip around North America with an awe inspiring trek around Alaska which took them six years before they switched their home from a RV to a catamaran, continuing there world exploration on sea.
 
-Another example of creativity that we discovered was Mogli and her boyfriend and filmmaker Felix Starck with their project [Expedition Happiness](https://www.mogliofficial.com/expedition%20happiness.html) where they traveled the US and Canada in a converted School bus.
+Another example of creativity that we discovered was Mogli and her boyfriend and filmmaker Felix Starck with their project [Expedition Happiness](https://www.mogliofficial.com/expedition%20happiness.html){:target="_blank"} where they traveled the US and Canada in a converted School bus.
 
 We don't currently have the financial means to get a motor home and definitely not a sail boat, but we can live our daily life in different places and call them home for a little while before moving on to the next one and explore the world that way.
 

@@ -13,6 +13,6 @@ At first, it took some convincing of myself, as my default would be to get up an
 
 However, my wife successfully convinced me to give it a try and to my surprise, I actually enjoyed it. First, the water isn't cold at all, which is apparently a thing here on Madeira due to it's location as well as the lava sand, and second, I felt so much more refreshed and started my actual working day in a much more productive way than usual.
 
-I don't want to fully credit this productive week solely on our new morning routine (which we managed to do 4 out of 5 days), but it has been a super productive week, completing my first project of redesigning the [Revit Content website](https://revit-content.com).
+I don't want to fully credit this productive week solely on our new morning routine (which we managed to do 4 out of 5 days), but it has been a super productive week, completing my first project of redesigning the [Revit Content website](https://revit-content.com){:target="_blank"}.
 
-Next week I'm going to dive fully into coding on the [Revit Family App](https://revitfamily.app) and kicking off the creation of the long overdue documentation for all of the Revit Families.
+Next week I'm going to dive fully into coding on the [Revit Family App](https://revitfamily.app){:target="_blank"} and kicking off the creation of the long overdue documentation for all of the Revit Families.

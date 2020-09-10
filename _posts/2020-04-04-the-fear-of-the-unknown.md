@@ -23,4 +23,4 @@ Anyway, we finally moved last Tuesday, making today the 4th day here at our seco
 
 ![](/assets/posts/2020-04-04-the-fear-of-the-unknown/portugal_sesimbra.png)
 
-Song listened while writing this post: [Lovely](https://open.spotify.com/track/3tPZnys7q5euIWahFjvro7?si=DQu4XIfoQ4OS133eKKkrHw) by Joey Pecoraro
+Song listened while writing this post: [Lovely](https://open.spotify.com/track/3tPZnys7q5euIWahFjvro7?si=DQu4XIfoQ4OS133eKKkrHw){:target="_blank"} by Joey Pecoraro
