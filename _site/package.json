@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "postcss ./assets/css/tailwind.css -o ./assets/css/site.css"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.1.2",
+    "@tailwindcss/ui": "^0.3.1",
+    "autoprefixer": "^9.7.4",
+    "postcss-cli": "^7.1.0",
+    "postcss-import": "^12.0.1",
+    "purgecss": "^2.0.5",
+    "tailwindcss": "^1.8.4"
+  }
+}
