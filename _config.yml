@@ -30,7 +30,8 @@ rss: RSS
 show_excerpts: true
 
 # Build settings
-permalink: /:categories/:year:month:day-:title/
+# permalink: /:categories/:year:month:day-:title/
+permalink: /:categories/:title/
 markdown: kramdown
 
 plugins:
