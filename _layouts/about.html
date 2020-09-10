@@ -1,16 +1,14 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">
-      <a class="hidden-link" href="/">{{ page.title | escape }}</a>
+<article class="max-w-3xl px-8 py-8 mx-auto">
+  <header>
+    <h1 class="pb-10 text-4xl font-bold">
+      <a class="border-transparent visited:border-transparent" href="/">{{ page.title }}</a>
     </h1>
   </header>
-
-  <div class="post-content">
+  <div class="prose prose-lg">
     {{ content }}
   </div>
-
 </article>
