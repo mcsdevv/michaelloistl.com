@@ -19,7 +19,7 @@
             <span class="font-bold">
               {{ post.title }}
             </span>
-            {% elsif page.id == '' && posts.first.url == post.url %}
+            {% elsif page.url == '/' and site.posts.first.url == post.url %}
             <span class="font-bold">
               {{ post.title }}
             </span>
