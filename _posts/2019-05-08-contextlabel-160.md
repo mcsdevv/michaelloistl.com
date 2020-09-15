@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ContextLabel 1.6.0
-date: 2019-05-08
+date: 2019-05-08 00:00:00 +0000
 category: blog
 ---
 

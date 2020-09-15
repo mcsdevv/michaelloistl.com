@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transition time
-date: 2020-07-07
+date: 2020-07-07 00:00:00 +0000
 category: blog
 ---
 

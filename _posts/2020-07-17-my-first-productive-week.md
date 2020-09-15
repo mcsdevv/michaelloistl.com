@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first productive week
-date: 2020-07-17
+date: 2020-07-17 00:00:00 +0000
 category: blog
 ---
 

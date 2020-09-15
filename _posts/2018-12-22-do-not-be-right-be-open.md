@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't be right, be open
-date: 2018-12-22
+date: 2018-12-22 00:00:00 +0000
 category: blog
 ---
 

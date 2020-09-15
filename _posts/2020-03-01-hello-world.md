@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World (literally)
-date: 2020-03-01
+date: 2020-03-01 00:00:00 +0000
 category: blog
 ---
 
