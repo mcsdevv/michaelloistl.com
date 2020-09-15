@@ -41,7 +41,7 @@ plugins:
   - jekyll-postcss
   - jekyll-purgecss
 
-css_dir: "assets/css" # defaults to "css"
+css_dir: "/assets/css" # defaults to "css"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
