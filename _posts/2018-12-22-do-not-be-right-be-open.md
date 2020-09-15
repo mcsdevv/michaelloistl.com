@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don't be right, be open
+date: 2018-12-22
 category: blog
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Our travel continues
+date: 2020-07-06
 category: blog
 ---
 

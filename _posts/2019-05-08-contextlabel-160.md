@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ContextLabel 1.6.0
+date: 2019-05-08
 category: blog
 ---
 

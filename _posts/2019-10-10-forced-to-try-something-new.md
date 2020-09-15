@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Forced to try something new
+date: 2019-10-10
 category: blog
 ---
 

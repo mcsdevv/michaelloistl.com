@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Our next chapter
+date: 2020-02-02
 category: blog
 ---
 
