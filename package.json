@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "build": "postcss ./_includes/tailwind.css -o ./assets/css/site.css"
+    "build": "postcss ./_includes/tailwind.css -o ./assets/css/site.css",
+    "postcss": "postcss ./_includes/tailwind.css -o ./assets/css/site.css",
+    "purgecss": "purgecss --config ./purgecss.config.js"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.1.2",
