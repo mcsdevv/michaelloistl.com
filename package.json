@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "postcss ./_css/tailwind.css -o ./assets/css/site.css"
+    "build": "postcss ./_includes/tailwind.css -o ./assets/css/site.css"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.1.2",
