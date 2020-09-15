@@ -1,7 +1,6 @@
 ---
 layout: post
 title: I am not good at ...
-date: 2019-09-29 00:00:00 +0000
 category: blog
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The fear of the unknown
-date: 2020-04-04 00:00:00 +0000
 category: blog
 ---
 

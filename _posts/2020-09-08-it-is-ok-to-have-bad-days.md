@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It's ok to have bad days
-date: 2020-09-08 00:00:00 +0000
 category: blog
 ---
 

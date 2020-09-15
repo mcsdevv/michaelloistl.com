@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Countdown & Commitment
-date: 2020-07-08 00:00:00 +0000
 category: blog
 ---
 

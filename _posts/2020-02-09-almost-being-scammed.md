@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Almost being scammed
-date: 2020-02-09 00:00:00 +0000
 category: blog
 ---
 

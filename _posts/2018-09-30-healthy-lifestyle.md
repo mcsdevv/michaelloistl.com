@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Healthy Lifestyle
-date: 2018-09-30 00:00:00 +0000
 category: blog
 ---
 

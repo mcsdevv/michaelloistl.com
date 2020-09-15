@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Understanding Men & Women
-date: 2020-04-05 00:00:00 +0000
 category: blog
 ---
 
