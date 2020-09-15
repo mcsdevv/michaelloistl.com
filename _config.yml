@@ -60,6 +60,5 @@ exclude:
   - README.md
   - postcss.config.js
   - purgecss.config.js
-  - tailwind.config.js
   - bin
   - .gitignore
