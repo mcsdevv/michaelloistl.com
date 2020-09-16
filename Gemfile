@@ -22,8 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
-  # gem 'jekyll-postcss'
-  # gem 'jekyll-purgecss'
+  gem 'jekyll-purgecss'
 end
 
 group :development do
