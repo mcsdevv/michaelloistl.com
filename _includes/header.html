@@ -1,7 +1,7 @@
 <nav class="max-w-3xl px-8 py-4 mx-auto">
   <div class="flex items-center justify-between">
     <div class="flex items-center font-medium text-gray-500">
-      {% if page.url == '/about' %}
+      {% if page.url contains '/about' %}
       {% assign url = '/' %}
       {% else %}
       {% assign url = '/about' %}
