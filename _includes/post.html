@@ -1,28 +1,15 @@
-<article class="max-w-3xl px-8 pt-20 pb-8 mx-auto" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="max-w-3xl p-8 px-8 mx-auto" itemscope itemtype="http://schema.org/BlogPosting">
   <header>
     <h1 class="mb-3 text-4xl font-bold leading-tight" itemprop="name headline">
       <a class="border-transparent visited:border-transparent" href="{{ include.post.url }}">
         {{ include.post.title | escape }}
       </a>
     </h1>
-    <time class="text-sm text-gray-500" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {{ include.post.date | date: date_format }}
-    </time>
-    <div class="flex pt-4 pb-10" itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <img src="/assets/images/michael_loistl_64.png" alt="Michael's avatar" class="w-12 h-12 py-0 rounded-full">
-      <div class="flex flex-col content-around pl-2">
-        <h5 class="pt-1 text-sm">
-          <em>Written by</em>
-          <strong>
-            <a class="border-transparent visited:border-transparent" href="/about">Michael</a>
-          </strong>
-        </h5>
-        <h6 class="pb-1 text-sm">
-          <a class="border-transparent visited:border-transparent" href="https://twitter.com/michaelloistl"
-            target="_blank">@michaelloistl</a>
-        </h6>
-      </div>
+    <div class="pb-8">
+      <time class="text-sm text-gray-500" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ include.post.date | date: date_format }}
+      </time>
     </div>
   </header>
 
@@ -36,11 +23,11 @@
 <footer class="max-w-3xl px-8 pb-16 mx-auto">
   <div class="inline-block p-2 text-white bg-gray-900 rounded">
     Share this on
-    <a id="share-twitter" class="hover:border-white"
-      href="https://twitter.com/share?text={{ include.post.title }}%20via%20@michaelloistl&url={{ include.post.url }}"
-      target="_blank">Twitter</a>
+    <a id="share-twitter" class="font-bold underline hover:border-white"
+                          href="https://twitter.com/share?text={{ include.post.title }}%20via%20@michaelloistl&url={{ include.post.url }}"
+                          target="_blank">Twitter</a>
     or
-    <a id="share-facebook" class="hover:border-white"
-      href="https://www.facebook.com/sharer.php?u={{ include.post.url }}" target="_blank">Facebook</a>
+    <a id="share-facebook" class="font-bold underline hover:border-white"
+                           href="https://www.facebook.com/sharer.php?u={{ include.post.url }}" target="_blank">Facebook</a>
   </div>
 </footer>
