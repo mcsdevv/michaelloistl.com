@@ -2,7 +2,11 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 {% include head.html %}
 <body>
+  {% if page.header %}
+  {% include {{ page.header }} %}
+  {% else %}
   {% include header.html %}
+  {% endif %}
   <main aria-label="Content">
     {{ content }}
   </main>
