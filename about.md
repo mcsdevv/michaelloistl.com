@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi 👋,
 
-I'm a programmer and maker, currently working on [Revit Family App](https://www.revitfamily.app){:target="_blank"}, while [slow traveling the world 🌏 with my wife](https://www.youtube.com/channel/UC2dzWCzIcp7PkRuGxSH4ATQ){:target="_blank"}.
+I'm a programmer and maker, currently working on [Revit Family App](https://www.revitfamily.app){:target="_blank"}, while [slow traveling the world 🌏 with my wife](https://www.youtube.com/lauzaandmichael){:target="_blank"}.
 
 While programming was one of my favourite things to do since my early teenage years, I was actually growing up in the building industry biased to become an architect. I worked in all areas from technician to super vision and project management for almost 20 years, but was always more passionate about everything involving computers rather than architecture itself.
 
