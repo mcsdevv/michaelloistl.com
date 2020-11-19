@@ -12,11 +12,15 @@ CLEAN.include BUILD_DIR
 
 desc 'Build the site'
 task :build do
+  ENV["JEKYLL_ENV"] = "production"
   sh 'jekyll', 'build'
+  sh 'yarn', 'run', 'build'
 end
 
 desc 'Start web server to preview site'
 task :preview do
+  ENV["JEKYLL_ENV"] = "development"
+  sh 'yarn', 'run', 'build'
   sh 'jekyll', 'serve', '--watch', '--drafts',
      '--port', ENV.fetch('PORT', '4000')
 end
@@ -35,6 +39,13 @@ task :new_draft, :title do |t, args|
     f << "\n"
     f << "Add awesome content here.\n"
   end
+end
+
+desc 'Publish draft'
+task :publish_draft, :title do |t, args|
+  title = args[:title]
+  filename = File.join(DRAFTS_DIR, "#{title.to_url}.md")
+
 end
 
 desc 'Create a new post'

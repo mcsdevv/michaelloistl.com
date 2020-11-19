@@ -1,6 +1,12 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
+  purge: {
+    enabled: true,
+    content: [
+      './_site/**/*.html',
+    ],
+  },
   future: {
     removeDeprecatedGapUtilities: true,
     purgeLayersByDefault: true,
@@ -11,6 +17,19 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Inter var', ...defaultTheme.fontFamily.sans],
+      },
+    },
+    typography: {
+      default: {
+        css: {
+          a: {
+            color: '#1a202c',
+            'font-weight': '600',
+            '&:hover': {
+              color: '#1a202c',
+            },
+          },
+        },
       },
     },
   },
