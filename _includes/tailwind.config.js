@@ -29,6 +29,20 @@ module.exports = {
               color: '#1a202c',
             },
           },
+          blockquote: {
+            'font-weight': '500',
+            'font-style': 'italic',
+            color: '#111827',
+            'border-left-width': '0.25rem',
+            'border-left-color': '#E5E7EB',
+            quotes: '"\\201C""\\201D""\\2018""\\2019"',
+          },
+          'blockquote p:first-of-type::before': {
+            content: 'open-quote',
+          },
+          'blockquote p:last-of-type::after': {
+            content: 'close-quote',
+          },
         },
       },
     },
