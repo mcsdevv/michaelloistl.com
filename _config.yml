@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-purgecss
+  # - jekyll-purgecss
 
 css_dir: "/assets/css" # defaults to "css"
 
