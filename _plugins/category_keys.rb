@@ -1,5 +1,5 @@
-module Jekyll
-  class CategoryKeys <  Generator
+module CategoryKeys
+  class Generator < Jekyll::Generator
     safe true
 
     def generate(site)
