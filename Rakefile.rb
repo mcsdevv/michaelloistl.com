@@ -13,6 +13,7 @@ CLEAN.include BUILD_DIR
 desc 'Build the site'
 task :build do
   ENV["JEKYLL_ENV"] = "production"
+  ENV["NODE_ENV"] = "production"
   sh 'jekyll', 'build'
   sh 'yarn', 'run', 'build'
 end
@@ -20,6 +21,7 @@ end
 desc 'Start web server to preview site'
 task :preview do
   ENV["JEKYLL_ENV"] = "development"
+  ENV["NODE_ENV"] = "development"
   sh 'yarn', 'run', 'build'
   sh 'jekyll', 'serve', '--watch', '--drafts',
      '--port', ENV.fetch('PORT', '4000')

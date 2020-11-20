@@ -5,7 +5,7 @@
     {% assign currentdate = post.date | date: "%Y" %}
     {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h2 class="w-24 pr-4 text-base font-bold text-right text-gray-900">{{ currentdate }}</h2>
+  <h2 class="w-24 pr-4 text-base font-bold text-right text-gray-900">{{ currentdate }}</h2>
     <ul class="mt-2 mb-4 text-lg">
       {% assign date = currentdate %}
       {% endif %}
@@ -16,16 +16,19 @@
           </div>
           <div class="block pl-4 border-l border-gray-300">
             {% if post.url == page.url %}
-            <span class="font-bold">
+            <span class="flex items-center font-bold">
               {{ post.title }}
+              {% include post_tag.html tags=post.tags %}
             </span>
             {% elsif page.url == '/' and site.posts.first.url == post.url %}
-            <span class="font-bold">
+            <span class="flex items-center font-bold">
               {{ post.title }}
+              {% include post_tag.html tags=post.tags %}
             </span>
             {% else %}
-            <a class="border-transparent" href="{{ post.url }}">
+            <a class="flex items-center border-transparent" href="{{ post.url }}">
               {{ post.title }}
+              {% include post_tag.html tags=post.tags %}
             </a>
             {% endif %}
           </div>
