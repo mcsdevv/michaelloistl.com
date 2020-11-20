@@ -34,12 +34,13 @@ task :new_draft, :title do |t, args|
 
   puts "==> Creating new draft: #{filename}"
   open(filename, 'w') do |f|
-    f << "---\n"
-    f << "layout: post\n"
-    f << "title: \"#{title.to_html(true)}\"\n"
-    f << "---\n"
-    f << "\n"
-    f << "Add awesome content here.\n"
+    f.write "---\n"
+    f.write "layout: post\n"
+    f.write "title: \"#{title.to_html(true)}\"\n"
+    f.write "category: blog\n"
+    f.write "---\n"
+    f.write "\n"
+    f.write "Add awesome content here.\n"
   end
 end
 
@@ -61,6 +62,7 @@ task :new_post, :title do |t, args|
     f.write "---\n"
     f.write "layout: post\n"
     f.write "title: \"#{title.to_html(true)}\"\n"
+    f.write "category: blog\n"
     f.write "---\n"
     f.write "\n"
     f.write "Add awesome post content here.\n"
