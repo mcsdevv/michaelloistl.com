@@ -1,0 +1,6 @@
+---
+layout: default
+---
+{% assign first_post = site.categories["rfa"].first %}
+{% include post.html post=first_post %}
+{% include archive.html category="rfa" post=first_post %}

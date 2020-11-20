@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A lot has happened
+category: blog
 ---
 
 ... since I wrote here back in September. We have met wonderful people, explored more of Madeira and have officially received the Portuguese Residence, which allows us to stay here no matter what’s the outcome from that crazy Brexit.

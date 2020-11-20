@@ -1,7 +1,14 @@
-{% if site.posts.size > 1 %}
+{% if include.category != nil %}
+{% assign posts = site.categories[include.category] %}
+{% assign category_url = "" %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+{% if posts.size > 1 %}
 <section class="bg-gray-100">
   <div class="max-w-3xl px-4 py-8 mx-auto sm:px-6 lg:px-8">
-    {% for post in site.posts %}
+    {% for post in posts %}
     {% assign currentdate = post.date | date: "%Y" %}
     {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
@@ -18,17 +25,17 @@
             {% if post.url == page.url %}
             <span class="flex items-center font-bold">
               {{ post.title }}
-              {% include post_tag.html tags=post.tags %}
+              {% include post_tag.html tags=post.categories %}
             </span>
-            {% elsif page.url == '/' and site.posts.first.url == post.url %}
+            {% elsif include.post.url == post.url %}
             <span class="flex items-center font-bold">
               {{ post.title }}
-              {% include post_tag.html tags=post.tags %}
+              {% include post_tag.html tags=post.categories %}
             </span>
             {% else %}
             <a class="flex items-center border-transparent" href="{{ post.url }}">
               {{ post.title }}
-              {% include post_tag.html tags=post.tags %}
+              {% include post_tag.html tags=post.categories %}
             </a>
             {% endif %}
           </div>
