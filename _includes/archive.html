@@ -8,42 +8,49 @@
 {% if posts.size > 1 %}
 <section class="bg-gray-100">
   <div class="max-w-3xl px-4 py-8 mx-auto sm:px-6 lg:px-8">
+    <div class="flex items-center pb-6 text-sm text-white">
+      <div class="w-24"></div>
+      <a href="/" class="w-12 p-1 ml-4 text-center bg-gray-600 rounded">all</a>
+      {% for category in site.category_keys %}
+      <a href="/{{ category }}" class="w-12 p-1 ml-4 text-center bg-gray-600 rounded">{{ category }}</a>
+      {% endfor %}
+    </div>
     {% for post in posts %}
     {% assign currentdate = post.date | date: "%Y" %}
     {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
   <h2 class="w-24 pr-4 text-base font-bold text-right text-gray-900">{{ currentdate }}</h2>
-    <ul class="mt-2 mb-4 text-lg">
-      {% assign date = currentdate %}
-      {% endif %}
-      <li class="mb-1">
-        <div class="flex items-start content-end">
-          <div class="flex-none w-24 pr-4 text-right">
-            <span class="text-sm">{{ post.date | date: "%b %-d" }}</span>
-          </div>
-          <div class="block pl-4 border-l border-gray-300">
-            {% if post.url == page.url %}
-            <span class="flex items-center font-bold">
-              {{ post.title }}
-              {% include post_tag.html tags=post.categories %}
-            </span>
-            {% elsif include.post.url == post.url %}
-            <span class="flex items-center font-bold">
-              {{ post.title }}
-              {% include post_tag.html tags=post.categories %}
-            </span>
-            {% else %}
-            <a class="flex items-center border-transparent" href="{{ post.url }}">
-              {{ post.title }}
-              {% include post_tag.html tags=post.categories %}
-            </a>
-            {% endif %}
-          </div>
+  <ul class="mt-2 mb-4 text-lg">
+    {% assign date = currentdate %}
+    {% endif %}
+    <li class="mb-1">
+      <div class="flex items-start content-end">
+        <div class="flex-none w-24 pr-4 text-right">
+          <span class="text-sm">{{ post.date | date: "%b %-d" }}</span>
         </div>
-      </li>
-      {% if forloop.last %}
-    </ul>{% endif %}
-    {% endfor %}
+        <div class="block pl-4 border-l border-gray-300">
+          {% if post.url == page.url %}
+          <span class="flex items-center font-bold">
+            {{ post.title }}
+            {% include post_tag.html tags=post.categories %}
+          </span>
+          {% elsif include.post.url == post.url %}
+          <span class="flex items-center font-bold">
+            {{ post.title }}
+            {% include post_tag.html tags=post.categories %}
+          </span>
+          {% else %}
+          <a class="flex items-center border-transparent" href="{{ post.url }}">
+            {{ post.title }}
+            {% include post_tag.html tags=post.categories %}
+          </a>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+    {% if forloop.last %}
+  </ul>{% endif %}
+  {% endfor %}
   </div>
 
 </section>
