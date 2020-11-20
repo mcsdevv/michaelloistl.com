@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
 title: Michael Loistl
 email: michael.loistl@hey.com
 description: Programmer, Maker and Digital Nomad
@@ -30,7 +29,6 @@ rss: RSS
 show_excerpts: true
 
 # Build settings
-# permalink: /:categories/:year:month:day-:title/
 permalink: /:categories/:title/
 markdown: kramdown
 
@@ -38,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  # - jekyll-purgecss
 
 css_dir: "/assets/css" # defaults to "css"
 
