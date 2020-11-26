@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A lot has happened
-category: rfa
+category: blog
 permalink: /a-lot-has-happened
 ---
 
