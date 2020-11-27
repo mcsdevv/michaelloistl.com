@@ -29,7 +29,7 @@ rss: RSS
 show_excerpts: true
 
 # Build settings
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 
 plugins:
