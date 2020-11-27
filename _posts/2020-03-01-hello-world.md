@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World (literally)
-category: blog
+tags: blog
 ---
 
 > "Hello World" is often the first program written by people learning to code, and is often used to illustrate the basic syntax of a programming language.
@@ -16,7 +16,7 @@ We have since cleared our flat and reduced our belongings to one suitcase, one c
 
 Although we had spent the last few weeks preparing for this new chapter in our lives, the actual departure from London felt more like going on holiday rather than a one way flight into a new way of living, which was quite interesting.
 
-For us, this new chapter is not just a change of location(s) but a new start of creative work we both want to focus on. 
+For us, this new chapter is not just a change of location(s) but a new start of creative work we both want to focus on.
 
 I used to be an architect but transitioned into software development over the last 10 years. Now it's time to bring those two professions back together with a new service for architects, that I have been working on during my free time  for the better part of the last year. I'll share more on this in upcoming posts...
 

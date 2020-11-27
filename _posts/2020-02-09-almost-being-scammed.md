@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almost being scammed
-category: blog
+tags: blog
 ---
 
 We are in the middle of preparing our departure to our new nomad lifestyle, which means packing and saying good bye to everything that we can't take with us. We give as much as possible to friends and family and sell everything else via Gumtree and Shpock. One of the items that we want to sell is an **Artemide Tizio 50** desk lamp.
@@ -11,7 +11,7 @@ We are in the middle of preparing our departure to our new nomad lifestyle, whic
 We posted it to Gumtree where we got the following reply shortly after posting:
 > my dad is keen to buy this now. write with just pics and price at w12adamsltd@gmail.com as he wants this now.
 
-We should have seen that coming based on that suspisious message, but we sent an email as requested with pictures and the asking price as we figured that nothing could happen by doing just that. After that initial email we started to email back and forth. 
+We should have seen that coming based on that suspisious message, but we sent an email as requested with pictures and the asking price as we figured that nothing could happen by doing just that. After that initial email we started to email back and forth.
 
 Following all the email responses that we received from **Adam Williams** (wadam7741@gmail.com):
 
@@ -23,7 +23,7 @@ Reply 1:
 Reply 2:
 > Hello , sorry for the late response, I wish to inform you that i would be adding an extra £50 to the money am transferring into your PayPal account, which is for the charged collection fee for the courier company to register the (lamp) for pick up, so you'll help me send it to the courier company agent via Amazon Gift Card Money Pack after the payment confirmation...I will appreciate your help here. As soon as i made the payment PayPal will notify you....i hope you understand now ?
 >
-> and while we don't have to much stuff in our flat, we are trying to sell as much as possible 
+> and while we don't have to much stuff in our flat, we are trying to sell as much as possible
 
 Reply 3:
 > Hi, I have completed the payment and i expected PayPal to have notified you about this, check your PayPal account email michael.loistl@gmail.com Inbox/Spam & Junk Mail and let me know if you have been notified yet. i sent £270 all to your account including the courier agents fee and am awaiting for the payment confirmation now but once you are notified kindly read through and follow the process given by PayPal to complete the sale..     below is the courier agent information coming for the collection :  First name: Hodan Abdi Surname: Hiris Address: Catford, London, SE6 4TZ    Many Thanks and nice doing business with you

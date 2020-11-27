@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Countdown & Commitment
-category: blog
+tags: blog
 ---
 
 During my daily session of blog post reading, two posts stood out for me as very relevant to my current situation. The first [The magic of the countdown](https://seths.blog/2020/07/the-magic-of-the-countdown){:target="_blank"} by Seth Godin and the second [Focus, intensity, hard work, and inevitability](https://alearningaday.blog/2020/07/08/focus-intensity-hard-work-and-inevitability){:target="_blank"} by Rohan Rajiv.
@@ -10,16 +10,16 @@ These last few days feel like a countdown towards a new beginning in my professi
 
 Seth writes about countdown:
 > But what really matters is this: There’s a commitment.
-> 
+>
 > When we get to zero, we’re actually going to do this.
-> 
+>
 > The commitment has to happen before the countdown can.
 
 When I read this part, I realised that I’ve built up this commitment over quite some time and that I’m ready for the Focus x Intensity x Hard Work to start, which Rohan defines as follow...
 
 > **Focus** is the continuous, iterative, process of keeping the main thing the main thing. **Intensity** is being 100% engaged while doing it. And, **Hard Work** requires no further introduction.
 
-While my current countdown is towards the beginning of my new full time journey, building my business, there was a countdown towards making and communicating the decision of taking this step (which was the commitment). 
+While my current countdown is towards the beginning of my new full time journey, building my business, there was a countdown towards making and communicating the decision of taking this step (which was the commitment).
 
 The entire process of getting ready and finally doing it, took almost a year, including the final hand over and transition out of my CTO role.
 

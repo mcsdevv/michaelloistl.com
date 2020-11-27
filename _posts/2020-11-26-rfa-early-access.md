@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Revit Family App "Early Access"
-category: rfa
-tag: rfa
+tags: rfa
 ---
 
 Normally I run a week of discounted sale for [All-in-One Revit Families](https://revit-content.com/){:target="_blank"}, beginning with Cyber Monday, but this year I wanted to extend this offer into the current week.

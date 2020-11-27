@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's ok to have bad days
-category: blog
+tags: blog
 ---
 
 It’s now the second day since I’m back full time on [RFA](https://revitfamily.app){:target="_blank"} after a freelance related break, and to be honest, the first day totally sucked.

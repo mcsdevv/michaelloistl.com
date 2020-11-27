@@ -29,15 +29,30 @@ rss: RSS
 show_excerpts: true
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title
 markdown: kramdown
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-archives
 
 css_dir: "/assets/css" # defaults to "css"
+
+jekyll-archives:
+  enabled:
+  - year
+  - month
+  - tags
+  layouts:
+    year: archive_year
+    month: archive_month
+    tag: archive_tag
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    tag: '/tag/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't be right, be open
-category: blog
+tags: blog
 ---
 
 Every person has their own ideas, opinions and believes. All of those are the result of some personal experiences and more and more external influences. For each person the resulting views are the "right" views, often without much questioning.

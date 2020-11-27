@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our travel continues
-category: blog
+tags: blog
 ---
 
 ![](/assets/posts/2020-07-06-our-travel-continues/portugal_madeira.png)

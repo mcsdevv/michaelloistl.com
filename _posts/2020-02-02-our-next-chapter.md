@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our next chapter
-category: blog
+tags: blog
 ---
 
 Back in November 2019, I saw a tweet where [Sailing La Vagabonde](https://sailing-lavagabonde.com) was sharing their departure from New York to bring Greta Thunberg to COP25 in Madrid. I can’t really find that tweet anymore, so not entirely sure how that made its way into my feed, but below is the picture that got my attention...
