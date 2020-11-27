@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "postcss ./_includes/tailwind.css -o ./assets/css/site.css"
+    "build": "jekyll build && mv _site public",
+    "postcss": "postcss ./_includes/tailwind.css -o ./assets/css/site.css"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.3.1",
