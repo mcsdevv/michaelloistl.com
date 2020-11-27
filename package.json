@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "jekyll build && mv _site public",
+    "build": "jekyll build",
     "postcss": "postcss ./_includes/tailwind.css -o ./assets/css/site.css"
   },
   "dependencies": {
