@@ -40,6 +40,10 @@ plugins:
 
 css_dir: "/assets/css" # defaults to "css"
 
+tag_archive:
+  type: jekyll-archives
+  path: /tag/
+
 jekyll-archives:
   enabled:
   - year
