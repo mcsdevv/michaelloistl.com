@@ -1,3 +1,0 @@
----
-layout: archive_tag
----
