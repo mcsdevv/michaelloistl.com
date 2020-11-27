@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "build": "jekyll build && mv _site public",
+    "postcss": "postcss ./_includes/tailwind.css -o ./assets/css/site.css"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.3.1",
+    "@tailwindcss/ui": "^0.7.2",
+    "autoprefixer": "^10.0.2",
+    "cssnano": "^4.1.10",
+    "postcss": "^8.1.7",
+    "postcss-cli": "^8.3.0",
+    "postcss-import": "^13.0.0",
+    "postcss-purgecss": "^2.0.3",
+    "purgecss": "^2.0.5",
+    "tailwindcss": "^2.0.1"
+  }
+}
